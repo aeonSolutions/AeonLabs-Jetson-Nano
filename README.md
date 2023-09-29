@@ -21,8 +21,18 @@
 <br>
 
 # NVidia's Jetson Nano 
+This is home for a new open hardware catalogue , one that uses NVidia's Jetson Nano GPU electronics.
 
+<br>
 
+my first project planned is....  <br>
+an autonomous vacuum robot able to identify all furniture in a home
+
+<br>
+
+second project....  <br>
+forget smart data acquisition of experimental data. This time is time for some Intelligent Data Acquisition of experimental data .  <br>
+In a scientific research laboratory . And outside.
 
 <br>
 <br>
