@@ -30,7 +30,7 @@ an autonomous vacuum robot able to identify all furniture in a home
 
 <br>
 
-**second project....**  <br>
+**my second project....**  <br>
 forget smart data acquisition of experimental data. This time is time for some Intelligent Data Acquisition of experimental data .  <br>
 In a scientific research laboratory . And outside.
 
