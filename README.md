@@ -2,18 +2,18 @@
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
-![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/aeonSolutions/AeonLabs-Jetson-Nano?style=for-the-badge)
 <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ln4nfh33l3coquvr48ln" alt="trackgit-views" />
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/Home-Automation.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Jetson-Nano.svg)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/PCB-Prototyping-Catalogue/fork)
+[![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/AeonLabs-Jetson-Nano.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/AeonLabs-Jetson-Nano/fork)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Autonomous-car.jpg" height="300">
 </p>
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  NVidia's Jetson Nano
@@ -25,6 +25,16 @@
 
 
 <br>
+<br>
+
+## Other Open Hardware Projects
+
+### [NVidia's My Jetson Nano Baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard)
+This basic baseboard gives the user the foundation and the flexibility to design their own baseboard for the Jetson Nano. It also repurposes some of the Jetson Nano’s interface signals for simple beginner projects.
+<p align="center">
+    <img height="300p" src="https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard/blob/master/assets/images/A00_front.jpg">
+</p>
+
 <br>
 
 ### [Antmicro's Open Source Jetson Baseboard](https://github.com/antmicro/jetson-nano-baseboard)
