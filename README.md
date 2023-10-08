@@ -27,6 +27,8 @@ This is home for a new open hardware catalogue , one that uses NVidia's Jetson N
 
 **my first project planned is....**  <br>
 an autonomous vacuum robot able to identify all furniture in a home
+or
+an autonomous cargo eBike able to drive it self autonomously on bike lanes and also on vehicle roads. 
 
 <br>
 
