@@ -31,7 +31,7 @@ or <br>
 an autonomous cargo eBike able to drive it self autonomously on bike lanes and also on vehicle roads. 
 
 <p align="center">
-  <img height="350" src="https://github.com/aeonSolutions/AeonLabs-Jetson-Nano/blob/main/media/doodle_autonomous_cargo_eBike.jpeg">
+  <img height="350" src="https://github.com/aeonSolutions/AeonLabs-Jetson-Nano/blob/main/media/doodle_autonomous_cargo_eBike_detailed.jpg">
 </p>
 
 <br>
