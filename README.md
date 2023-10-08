@@ -26,9 +26,13 @@ This is home for a new open hardware catalogue , one that uses NVidia's Jetson N
 <br>
 
 **my first project planned is....**  <br>
-an autonomous vacuum robot able to identify all furniture in a home
-or
+an autonomous vacuum robot able to identify all furniture in a home <br>
+or <br>
 an autonomous cargo eBike able to drive it self autonomously on bike lanes and also on vehicle roads. 
+
+<p align="center">
+  <img height="350" src="https://github.com/aeonSolutions/AeonLabs-Jetson-Nano/blob/main/media/doodle_autonomous_cargo_eBike.jpeg">
+</p>
 
 <br>
 
