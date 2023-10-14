@@ -24,6 +24,10 @@
 This is home for a new open hardware catalogue , one that uses NVidia's Jetson Nano GPU electronics and a lot of "artificial intelligence" & machine learning modelling.
 Currently i have 5 datasets and 21 python workbooks on Kaggle available to anyone download and run. Here's the link to my [Kaggle profile](https://www.kaggle.com/migueltoms). 
 
+<p align="center">
+    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Jetson-Nano/blob/main/media/kaggle_stats.jpg">
+</p>
+
 <br>
 
 **my first project planned is....**  <br>
